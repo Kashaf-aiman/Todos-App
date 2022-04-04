@@ -1,0 +1,22 @@
+{
+    "resource_version": 1,
+    "metadata": {
+      "version": 3,
+      "sources": [
+        {
+          "name": "default",
+          "kind": "postgres",
+          "tables": [],
+          "configuration": {
+            "connection_info": {
+              "use_prepared_statements": false,
+              "database_url": {
+                "from_env": "PG_DATABASE_URL"
+              },
+              "isolation_level": "read-committed"
+            }
+          }
+        }
+      ]
+    }
+  }

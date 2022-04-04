@@ -1,0 +1,23 @@
+endpoint: https://react-todos-app.hasura.app
+admin_secret: Tf0HAuS32JLLeWJvaDA8fpYHAOJ9LBA6dudhOXCI5j0JysOK2hlNDyTSO0kRVnxl
+
+version: 3
+
+api_paths:
+  v1_query: v1/query
+  v2_query: v2/query
+  v1_metadata: v1/metadata
+  graphql: v1/graphql
+  config: v1alpha1/config
+  pg_dump: v1alpha1/pg_dump
+  version: v1/version
+metadata_directory: metadata
+migrations_directory: migrations
+seeds_directory: seeds
+actions:
+  kind: synchronous
+  handler_webhook_baseurl: http://localhost:3000
+  codegen:
+    framework: ""
+    output_dir: ""
+
