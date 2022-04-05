@@ -20,7 +20,7 @@ online-users table
 
 
 Addting new todos to the list:
-![image](https://user-images.githubusercontent.com/89589898/161832144-767ddba8-f559-458d-994f-9ae66e7ed7e6.png)
+
 ![image](https://user-images.githubusercontent.com/89589898/161832183-d89fe3b6-b83d-412e-be46-2c3854233356.png)
 
 database after:
