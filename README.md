@@ -8,6 +8,7 @@ main-page:
 ![image](https://user-images.githubusercontent.com/89589898/161831583-a9aafb4e-4e0e-41a1-a6d9-fb7c398cfb34.png)
 
 database:
+
 to-dos table
 ![image](https://user-images.githubusercontent.com/89589898/161831738-0a87cdf2-26d8-4a64-9619-74511f0a45fc.png)
 
@@ -20,6 +21,7 @@ online-users table
 
 
 Addting new todos to the list:
+![image](https://user-images.githubusercontent.com/89589898/161833819-19ae0f18-b348-4374-a096-1a9ae410a04d.png)
 
 ![image](https://user-images.githubusercontent.com/89589898/161832183-d89fe3b6-b83d-412e-be46-2c3854233356.png)
 
